@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+xgboost
+shap
+scipy
+ipython  # optional, used for display helpers in notebooks
